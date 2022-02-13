@@ -645,6 +645,10 @@
   gap: 2.4rem;
 }
 
+.footer-link {
+  display: inline-block;
+}
+
 .footer-link:link,
 .footer-link:visited {
   text-decoration: none;
