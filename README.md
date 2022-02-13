@@ -1,2 +1,2 @@
-# omnifood
+# Omnifood
 Omnifood project
