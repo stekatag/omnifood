@@ -10,6 +10,15 @@ We want to solve this problem by using an AI-centric approach. Users can use our
 
 We partner with restaurants and other cooking partners to actually cook and deliver all meals from the generated meal plans, in selected cities. All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
 
+### Project feature requirements
+
+1. Semantic HTML elements :heavy_check_mark:
+2. Adaptive gallery :heavy_check_mark:
+3. Best styling practises :heavy_check_mark:
+4. Media queries :heavy_check_mark:
+5. Responsive breakpoints :heavy_check_mark:
+6. Sticky navigation :heavy_check_mark:
+
 ## Defining the project
 
 Who the website is for:
@@ -41,6 +50,9 @@ A one-page marketing website (landing page)
 
 Official HTML Validator:
 https://validator.w3.org/nu/?doc=https%3A%2F%2Fstekatag.github.io%2Fomnifood%2F
+
+Official CSS Validator:
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fstekatag.github.io%2Fomnifood%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
 
 ## Disclaimer
 
