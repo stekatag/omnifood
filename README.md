@@ -18,6 +18,7 @@ We partner with restaurants and other cooking partners to actually cook and deli
 4. Media queries :heavy_check_mark:
 5. Responsive breakpoints :heavy_check_mark:
 6. Sticky navigation :heavy_check_mark:
+7. Optimized images :heavy_check_mark:
 
 ## Defining the project
 
