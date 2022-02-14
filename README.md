@@ -10,16 +10,6 @@ We want to solve this problem by using an AI-centric approach. Users can use our
 
 We partner with restaurants and other cooking partners to actually cook and deliver all meals from the generated meal plans, in selected cities. All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
 
-### Project feature requirements
-
-1. Semantic HTML elements :heavy_check_mark:
-2. Adaptive gallery :heavy_check_mark:
-3. Best styling practises :heavy_check_mark:
-4. Media queries :heavy_check_mark:
-5. Responsive breakpoints :heavy_check_mark:
-6. Sticky navigation :heavy_check_mark:
-7. Optimized images :heavy_check_mark:
-
 ## Defining the project
 
 Who the website is for:
@@ -34,6 +24,16 @@ Busy people who like technology, are interested in a healthy diet, and a have a 
 
 Sitemap:
 A one-page marketing website (landing page)
+
+### Project feature requirements
+
+1. Semantic HTML elements :heavy_check_mark:
+2. Adaptive gallery :heavy_check_mark:
+3. Best styling practises :heavy_check_mark:
+4. Media queries :heavy_check_mark:
+5. Responsive breakpoints :heavy_check_mark:
+6. Sticky navigation :heavy_check_mark:
+7. Optimized images :heavy_check_mark:
 
 ### Sections
 
