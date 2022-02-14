@@ -36,7 +36,7 @@
   color: #333;
   font-weight: 500;
   font-size: 1.8rem;
-  transition: all 0.3;
+  transition: all 0.3s;
 }
 
 .main-nav-link:hover,

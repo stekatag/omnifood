@@ -157,7 +157,7 @@ Instead, 1rem = 1em = 16px */
 
   .nav-open .main-nav {
     opacity: 1;
-    pointer-events: auto;
+    pointer-events: all;
     visibility: visible;
     transform: translateX(0);
   }

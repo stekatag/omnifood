@@ -37,6 +37,11 @@ A one-page marketing website (landing page)
 - CTA
 - Footer
 
+## HTML & CSS Validation
+
+Official HTML Validator:
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fstekatag.github.io%2Fomnifood%2F
+
 ## Disclaimer
 
 This project is made for learning purposes only. All rights reserved to Jonas Schmedtmann.
